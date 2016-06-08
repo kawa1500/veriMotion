@@ -17,4 +17,5 @@ Wersja 0.1
   Aktualne prace:
     - Pozbycie się metod z punktu 4 oraz 5. przy wykorzystaniu silnika Adnotacyjnego.
     - Dodanie adnotacji startowej i zastępując metodę z punktu 2.
+
   
